@@ -1,7 +1,6 @@
 # Coin Change Problem
 
-Convert some amount of money M into given denominations, using the
-smallest possible number of denominations.
+Convert some amount of money M into given denominations, using the smallest possible number of denominations.
 
 **Case 1:** Return only the number of denominations used
 
